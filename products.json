@@ -1,0 +1,57 @@
+[
+    {
+      "id": "1",
+      "name": "Lápiz HB",
+      "price": "0.99",
+      "stock": 100,
+      "code": "PAP001",
+      "published": true,
+      "creation_date": "2023-06-01"
+    },
+    {
+      "id": "2",
+      "name": "Bolígrafo azul",
+      "price": "1.49",
+      "stock": 50,
+      "code": "PAP002",
+      "published": true,
+      "creation_date": "2023-05-15"
+    },
+    {
+      "id": "3",
+      "name": "Cuaderno tamaño carta",
+      "price": "2.99",
+      "stock": 20,
+      "code": "PAP003",
+      "published": true,
+      "creation_date": "2023-06-03"
+    },
+    {
+      "id": "4",
+      "name": "Sacapuntas metálico",
+      "price": "0.79",
+      "stock": 30,
+      "code": "PAP004",
+      "published": true,
+      "creation_date": "2023-06-05"
+    },
+    {
+      "id": "5",
+      "name": "Marcador fluorescente amarillo",
+      "price": "1.99",
+      "stock": 40,
+      "code": "PAP005",
+      "published": true,
+      "creation_date": "2023-06-08"
+    },
+    {
+      "id": "6",
+      "name": "Goma de borrar",
+      "price": "0.49",
+      "stock": 80,
+      "code": "PAP006",
+      "published": true,
+      "creation_date": "2023-06-08"
+    }
+  ]
+  
